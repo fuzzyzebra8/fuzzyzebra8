@@ -2,10 +2,10 @@
 
 I'm hellohello, a new programmer! I primarily use C++ for my projects.<br/>
 
-###### **What I'm currently working on:**<br/>
+##### **What I'm currently working on:**<br/>
 ✧ That's a secret 🤫<br/>
 
-###### **A bit about me:**<br/>
+##### **A bit about me:**<br/>
 ✧ I'm a cat person! ദ്ദി/ᐠ｡‸｡ᐟ| <br/>
 ✧ My favorite color is gray ‧₊˚🖇️✩ ₊˚🎧⊹♡<br/>
 ✧ I can crochet! Kinda... ˚˖𓍢ִ໋🧶✧˚🪡.⋆
