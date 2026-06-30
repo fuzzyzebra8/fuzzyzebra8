@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hiii (๑'ᵕ'๑)⸝*
 
 I'm hellohello, a new programmer! I primarily C++ for my projects.
 
