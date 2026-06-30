@@ -3,9 +3,11 @@
 I'm hellohello, a new programmer! I primarily C++ for my projects.
 
 What I'm currently working on:
+
 ✧ That's a secret 🤫
 
 A bit about me:
+
 ✧ I'm a cat person! ദ്ദി/ᐠ｡‸｡ᐟ\
 ✧ My favorite color is gray ‧₊˚🖇️✩ ₊˚🎧⊹♡
 ✧ I can crochet! Kinda... ˚˖𓍢ִ໋🧶✧˚🪡.⋆
