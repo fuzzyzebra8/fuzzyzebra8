@@ -10,7 +10,7 @@ I'm hellohello, a new programmer! I primarily use C++ for my projects.<br/>
 ✧ My favorite color is gray ‧₊˚🖇️✩ ₊˚🎧⊹♡<br/>
 ✧ I can crochet! Kinda... ˚˖𓍢ִ໋🧶✧˚🪡.⋆
 
-![Snake animation](https://raw.githubusercontent.com/fuzzyzebra8/fuzzyzebra8/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/fuzzyzebra8/fuzzyzebra8/output/github-contribution-grid-snake-dark.svg)
 
 <!--
 **fuzzyzebra8/fuzzyzebra8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
